@@ -6,9 +6,9 @@
   scroll-behavior: smooth;
 }
 
-/* body {
+body {
   background-color: #080b0c;
-} */
+} 
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../asset/img/hero.png");
